@@ -13,7 +13,7 @@ Repositório de apoio às disciplinas **Estágio em Docência I e II** do Progra
 ├── Template Relatorio Final/       # Template do Relatório Final
 │   ├── main.tex
 │   ├── bibliografia.bib
-│   ├── imgs/default/               # Logos institucionais (UFMG, DCC, PPGCC)
+│   ├── imgs/default/               # Logos institucionais (UFMG e DCC)
 │   └── README.md
 └── README.md                       # Este arquivo
 ```
